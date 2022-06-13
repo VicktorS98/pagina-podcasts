@@ -108,6 +108,11 @@ body {
   background-color:rgb(87, 221, 170);
 }
 
+.access a {
+  text-decoration: none;
+  color: black;
+}
+
 @media (max-width: 500px) {
   body {
     background-color: rgb(45, 69, 110);
